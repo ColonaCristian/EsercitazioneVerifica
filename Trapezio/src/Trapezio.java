@@ -4,6 +4,7 @@
  *
  */
 
+/* 1*/
 public class Trapezio {
 private float bMax,bMin,h,l1,l2;
 
@@ -26,7 +27,7 @@ public Trapezio(float bmax,float bmin,float altezza,float lato1,float lato2){
 
 /**
  * 
- * @return
+ * @return 
  */
 
 
